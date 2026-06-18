@@ -19,6 +19,7 @@ I specialize in:
 ## Technologies
 
 - C#
+- C++
 - .NET
 - ASP.NET Core
 - WinForms
@@ -28,6 +29,8 @@ I specialize in:
 - HTML
 - CSS
 - JavaScript
+- WinUi
+- Delphi
 
 ## Current Projects
 
@@ -35,15 +38,22 @@ I specialize in:
 - ECU Solutions
 - Automotive Software Tools
 
-## Contact
+Contact & Social Links
 
 🌐 Website: https://calibronix.com
 
-📧 Email: contact@calibronix.com
+💻 GitHub: https://github.com/doot47
 
-## Available For
+📘 Facebook: https://www.facebook.com/antar.plus
 
+📱 WhatsApp: +213 795 97 57 08
+
+- Available For
 - Freelance Projects
-- Software Consulting
-- Custom Development
+- Software Development
+- Web Applications
+- Desktop Applications
+- Automotive Software Solutions
+- ECU Data Analysis Tools
+- Technical Consulting
 - Long-Term Collaborations
