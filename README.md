@@ -42,11 +42,9 @@ Contact & Social Links
 
 🌐 Website: https://calibronix.com
 
-💻 GitHub: https://github.com/doot47
-
 📘 Facebook: https://www.facebook.com/antar.plus
 
-📱 WhatsApp: +213 795 97 57 08
+📱 WhatsApp: https://wa.me/213795975708
 
 - Available For
 - Freelance Projects
