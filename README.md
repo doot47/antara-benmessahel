@@ -34,13 +34,10 @@ I specialize in:
 
 ## Current Projects
 
-- Calibronix
 - ECU Solutions
 - Automotive Software Tools
 
 Contact & Social Links
-
-🌐 Website: https://calibronix.com
 
 📘 Facebook: https://www.facebook.com/antar.plus
 
